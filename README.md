@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dorritochan
-- 👀 I’m interested in Programming, Java, Backend and Fronted development
-- 🌱 I’m currently learning Backend development
+- 👀 I’m interested in Programming with Python, Backend and Fronted development
+- 🌱 I’m currently developing web apps using flask
 - 📫 How to reach me itberatung@doravarga.de
 
 <!---
